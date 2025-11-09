@@ -1,0 +1,7 @@
+{
+  "name": "Sahaara: Safety & Support",
+  "description": "A safety and rehabilitation platform for vulnerable individuals, providing emergency help, verified NGO connections, safe shelters, and fair job opportunities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
