@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sahara
 
-# Run and deploy your AI Studio app
+Sahara is an experimental AI-powered support and safety app concept, built using Google AI Studio and Vite.
 
-This contains everything you need to run your app locally.
+This project was created as a learning experiment to explore rapid prototyping, frontend structure, and AI integration.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ig-r2Me1qnwWTv58c0ie-e5SztqB9vmR
+## Tech Stack
+- TypeScript
+- Vite
+- Google AI Studio (Gemini API)
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+- Node.js
 
-
+### Steps
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
